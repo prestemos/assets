@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="42px" height="55px" viewBox="0 0 42 55" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 15</title>
+    <desc>Created with Sketch.</desc>
+    <g id="KYC---Mobile" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-15">
+            <path d="M0,0 L40.5,0 C41.3284271,-1.52179594e-16 42,0.671572875 42,1.5 L42,53.5 C42,54.3284271 41.3284271,55 40.5,55 L0,55 L0,0 Z" id="Rectangle" fill="#2A4D46" fill-rule="nonzero"></path>
+            <rect id="Rectangle" stroke="#FFFEFE" stroke-width="0.5" fill="#FFFFFE" fill-rule="nonzero" transform="translate(21.171233, 49.744186) rotate(-180.000000) translate(-21.171233, -49.744186) " x="11.25" y="49.25" width="19.8424658" height="1" rx="0.5"></rect>
+            <circle id="Oval" stroke="#FFFEFE" stroke-width="2" fill="#FFFFFF" fill-rule="nonzero" cx="21" cy="29" r="8"></circle>
+            <text id="MEXICO" font-family="Montserrat-Bold, Montserrat" font-size="6" font-weight="bold" line-spacing="6" fill="#FFFFFE">
+                <tspan x="7" y="10">MEXICO</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
